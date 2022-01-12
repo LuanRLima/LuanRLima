@@ -17,7 +17,6 @@
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luan-.Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Luan-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/DCfmgC6/photo3-1.png" alt="photo3-1" border="0" /></a>
   </div>
   
   ##
