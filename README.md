@@ -8,8 +8,12 @@
   <img align="center" alt="Luan-Js" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-Ts" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  
   
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" >
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
