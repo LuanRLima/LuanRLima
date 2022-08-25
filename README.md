@@ -24,7 +24,7 @@
   <img align="center" style="margin-top: 2px"    alt="Luan-Figma" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" style="margin-top: 2px"    alt="Java" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  <img align="center" style="margin-top: 2px"    alt="Gradle" height="33" width="44" src=" https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg"> 
- <img align="center" style="margin-top: 2px"    alt="Gradle" height="33" width="44" src= "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"> 
+ <img align="center" style="margin-top: 2px"    alt="Gradle" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"> 
   <img align="center" style="margin-top: 2px"    alt="Spring" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
  <img align="center" style="margin-top: 2px"    alt="Junit" height="33" width="33" src="https://github.com/LuanRLima/Back-End-Projeto-Ionic/blob/master/pngwing.com%20(1).png">
   <img align="center" style="margin-top: 2px"    alt="Docker" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">            
