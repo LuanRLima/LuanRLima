@@ -13,7 +13,7 @@
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Luan-Angular" height="33" width="44" src=" https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" >
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
