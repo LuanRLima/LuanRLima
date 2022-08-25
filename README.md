@@ -1,4 +1,4 @@
-## Oiii eu sou a Luan Rodrigues Lima, Desenvolvedor Full Stack jr!
+## Oiii eu sou a Luan Rodrigues Lima, Desenvolvedor Full Stack!
 <div align="center">
   <a href="https://github.com/LuanRLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanRLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
