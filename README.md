@@ -32,7 +32,8 @@
   <img align="center" style="margin-top: 2px"    alt="Postgresql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" style="margin-top: 2px"    alt="Mongodb" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" style="margin-top: 2px"    alt="Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" style="margin-top: 2px"    alt="Linux" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img align="center" style="margin-top: 2px"    alt="Mysql" height="33" width="44" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" style="margin-top: 2px"    alt="Linux" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" style="margin-top: 2px"    alt="Git" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   </div>
   
