@@ -27,16 +27,11 @@
   <img align="center" alt="Luan-.Net" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Luan-.Net" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Luan-.Net" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Luan-.Net" height="33" width="44" src= "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
-
-  
-  "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"
-  
+  <img align="center" alt="Luan-.Net" height="33" width="44" src= "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">  
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="33" src="https://github.com/LuanRLima/Back-End-Projeto-Ionic/blob/master/pngwing.com%20(1).png">
   </div>
