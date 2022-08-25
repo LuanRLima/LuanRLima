@@ -10,13 +10,13 @@
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
-  
-  
+  <img align="center" alt="Luan-Angular" height="33" width="44" src=" https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" >
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Luan-HTML" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Bootstrap" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
@@ -32,9 +32,11 @@
   
   "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"
   
+  <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="33" src="https://github.com/LuanRLima/Back-End-Projeto-Ionic/blob/master/pngwing.com%20(1).png">
   </div>
