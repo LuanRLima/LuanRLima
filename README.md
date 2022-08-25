@@ -7,7 +7,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-Ts" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" >
   <img align="center" alt="Luan-Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Luan-HTML" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,6 +21,12 @@
   <img align="center" alt="LuanSpring" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Luan-Csharp" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">            
   <img align="center" alt="Luan-.Net" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="Luan-.Net" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Luan-.Net" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Luan-.Net" height="33" width="44" src= "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
+
+  
+  "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"
   
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luan-Mysql" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
