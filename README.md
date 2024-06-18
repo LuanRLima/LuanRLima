@@ -9,14 +9,9 @@
   <img align="center" alt="Luan-JS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-TS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NodeJS" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Npm" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Yarn" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Jest" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Eslint" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Sequelize" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Express" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" >
-  <img align="center" alt="Angular" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Vue" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="HTML" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,9 +25,7 @@
   <img align="center" alt="Kubernetes" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="AWS" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"> 
   <img align="center" alt="Postgresql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Mongodb" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Mysql" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Mysql" height="33" width="44" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt="Linux" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   </div>
