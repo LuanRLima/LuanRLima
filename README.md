@@ -20,8 +20,8 @@ Foco em produtos escalaveis, APIs seguras, integracao entre sistemas e entregas 
 
 ## Certificacoes AWS
 
-- AWS Certified Cloud Practitioner (2x)
-- AWS Certified Developer - Associate (2x)
+- AWS Certified Cloud Practitioner 
+- AWS Certified Developer - Associate 
 
 ---
 
