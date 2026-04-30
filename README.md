@@ -20,8 +20,8 @@ Foco em produtos escalaveis, APIs seguras, integracao entre sistemas e entregas 
 
 ## Certificacoes AWS
 
-- AWS Certified Cloud Practitioner 
-- AWS Certified Developer - Associate 
+- AWS Certified Cloud Practitioner (2x)
+- AWS Certified Developer - Associate (2x)
 
 ---
 
@@ -122,3 +122,15 @@ Foco em produtos escalaveis, APIs seguras, integracao entre sistemas e entregas 
 ---
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## Quantidade de Commits no Ano
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanRLima&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuanRLima&theme=tokyonight"/>
+</p>
